@@ -1,0 +1,9 @@
+node_modules
+.bak
+.tmp
+.idea
+.settings
+.code
+.classpath
+.DS_Store
+
